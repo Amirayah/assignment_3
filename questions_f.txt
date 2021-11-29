@@ -36,15 +36,51 @@ An asset is an economic resource,that can be owned or controlled, and that holds
 	- Data management is cross-functional
 	- Establishing an enterprise perspective
 	- Accounting for other perspective
+	- The data lifecycle
+	- Different types of data
+	- Data and risk
+	- Data management and technology
+	- Effective data management requires leadership and commitment
+	- 
+6.What is the data valuation challengue?
+
+	Value is the difference between cost of a thing and the benefit derived from that thing. For data, neither the costs not the benefits of data are stardized. Since each organization's data is unique to itself, an approach to data vauation needs to begin by articulating general cost and benefit categories that can be applied consistently within an organizational. A primary challenge to data asset valuation is that the value of data is contextual and often temporal. 
+
+7. What is the Planning for better data challengue?
+	
+	Planning for better data requires a strategic approach to architecture, modeling, and other design functions. It also depends on strategic collaboration between business and IT leadership. The challenge is that there are usually organizational pressures, as well as the perennial pressures of time and money, that get in the way of better planning. Organizations must balance long- and short-term goals as they execute their strategies. Having clarity about the trade-offs leads to better decisions.  
+
+8. Mention some important applications of data management on the data lifecycle.
+
+	- Creation and usage are the most critical points in the data lifecycle.
+	- Data Quality must be managed throughout the data lifecycle.
+	- Metadata Quality must be managed through the data lifecycle.
+	- Data Security must be managed throughout the data lifecycle.
+	- Data Management efforts should focus on the most critical data.
+
+9. What is the definition of strategy?
+
+	A strategy is a set of choices and decisions that together chart a high-level course of action to achieve high-level goals. A strategic plan is a high-level course of action to achieve high-level goals.  
+
+10. Where data strategy come from? 
+	Data strategy must come from an understanding of the data needs inherent in the business strategy: what data the organization needs, how it will get the data, how it will manage it and ensure its reliability over time, and how it will utilize it. 
+
+11. Mention some components of a data management strategy.
+
+	- A compelling vision for data management
+	- A summary business case for data management, with selected examples
+	- Guiding principles, values, and management perspectives
+	- The mission and long-term directional goals of data management
+	- Proposed measures of data management success
+	- Short-term (12-24 months) Data Management program objectives that are SMART
+	- Descriptions of data management roles and organizations, along with a summary of their responsibilities and decision rights.
+	- Descriptions of Data Management program components and initiatives
+	- A prioritized program of work with scope boundaries
+	- A draft implementation roadmap with projects and action items
+
+12. 
 
 
-6.
-7.
-8.
-9.
-10.
-11.
-12.
 13.
 14.
 15.
