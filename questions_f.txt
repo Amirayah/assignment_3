@@ -1,0 +1,59 @@
+
+1. What is data management?
+
+Data management us the development, execution, and supervision of plans, policies, programs, and practices that deliver, control, protect, and enhance the value of data and information assets throughout their lifecycles.
+
+
+2. What is data?
+
+Data is understood as information that has been stored in digital form.
+
+3. What is an Organizational asset?
+
+An asset is an economic resource,that can be owned or controlled, and that holds or produces value. Assets csn be converted tomoney.
+
+4. What are the principles of Data management?
+
+	- Data is an asset with unique properties.
+	-The value of data can and should be expressedin economic terms.
+	- Management data means managing the quality of data.
+	- It takes Metadata to manage data.
+	- Data management is cross-functional;it requires a range of skills and expertise.
+	- Data management requires an enterprise perspective.
+	- Data management must account for a range of perspectives.
+	- Data management is lifecycle management.
+	- Different types of data have different lifecycle characteristics.
+	- Managing data includes managing the risks associated with data.
+	- Data management requirements must drive Information Technology decisions.
+	- Effective data management requires leadership commitment.
+
+5. What are the data management challenges?
+	- Data differs from other assets 
+	- Data valuation
+	- Data quality
+	- Planning for better data
+	- Metadata and data management
+	- Data management is cross-functional
+	- Establishing an enterprise perspective
+	- Accounting for other perspective
+
+
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
